@@ -1,2 +1,4 @@
-# Java
-Java(2023.03~) practice repo
+# Java Class
+
+# Studying Java from : 2023.03 ~  
+# This is a practice repo for Java Classes.
