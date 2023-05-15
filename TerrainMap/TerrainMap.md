@@ -1,5 +1,5 @@
 
-# Terrain Map -> Topographic Map
+# Terrain & Topographic Map
 
 ==============================================================
 
@@ -10,4 +10,6 @@ In the flood map, print a * for each flooded point and a space for each point th
 Then write a program that reads one hundred terrian height values and shows how the terrian gets flooded 
 when the water level increases in ten steps from the lowest point in the terrian to the highest. 
 
-![Uploading image.png…]()
+
+
+![image](https://github.com/lseni/Java/assets/128987185/ca6be972-d89f-488e-a3e8-136975e9119a)
