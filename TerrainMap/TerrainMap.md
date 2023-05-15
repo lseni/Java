@@ -4,6 +4,7 @@
 ##################################
 
 You are given a two-dimensional array of values that give the height of a terrian at different points in a square.
+
 Write a constructor "public Terrian(double[][] heights)" and a method "public void printFloodMap(double waterLevel)" 
 that prints out a flood map, showing which of the points in the terrian would be flooded if the water level was the given value. 
 In the flood map, print a * for each flooded point and a space for each point that is not flooded. 
